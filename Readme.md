@@ -21,3 +21,4 @@
 + "Teaching Arithmetic to Small Transformers", [pdf](https://arxiv.org/pdf/2307.03381.pdf)
 + "Distilling Reasoning Capabilities into Smaller Language Models", [pdf](https://arxiv.org/pdf/2212.00193.pdf)
 + "Explanations from Large Language Models Make Small Reasoners Better", [pdf](https://arxiv.org/pdf/2210.06726.pdf)
++ "Large Language Models Are Reasoning Teachers", [pdf](https://arxiv.org/pdf/2212.10071.pdf)
