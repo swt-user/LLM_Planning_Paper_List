@@ -16,3 +16,8 @@
 + "Recommender Systems in the Era of Large Language Models (LLMs)" [pdf](https://arxiv.org/pdf/2307.02046.pdf)
 
 
+## Teaching small model
++ "Teaching Small Language Models to Reason", [pdf](https://arxiv.org/pdf/2212.08410.pdf)
++ "Teaching Arithmetic to Small Transformers", [pdf](https://arxiv.org/pdf/2307.03381.pdf)
++ "Distilling Reasoning Capabilities into Smaller Language Models", [pdf](https://arxiv.org/pdf/2212.00193.pdf)
++ "Explanations from Large Language Models Make Small Reasoners Better", [pdf](https://arxiv.org/pdf/2210.06726.pdf)
