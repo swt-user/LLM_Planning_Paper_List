@@ -9,8 +9,10 @@
 
 
 ## Reasoning
-+ "Chain of Thought Prompting Elicits Knowledge Augmentation", []()
++ "Chain of Thought Prompting Elicits Knowledge Augmentation", [pdf](https://arxiv.org/pdf/2201.11903.pdf)
 
 
 ## Recommendation
-+ "Recommender Systems in the Era of Large Language Models (LLMs)" [pdf]()
++ "Recommender Systems in the Era of Large Language Models (LLMs)" [pdf](https://arxiv.org/pdf/2307.02046.pdf)
+
+
