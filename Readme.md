@@ -2,6 +2,7 @@
 
 ## Planning
 + "Embodied Task Planning with Large Language Models", [pdf](https://arxiv.org/pdf/2307.01848.pdf)
++ "Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents", [pdf](https://arxiv.org/pdf/2201.07207.pdf)
 + "Building Cooperative Embodied Agents Modularly with Large Language Models", [pdf](https://arxiv.org/pdf/2307.02485.pdf)
 + "Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners", [pdf](https://arxiv.org/pdf/2307.01928.pdf)
 + "PlaSma: Making Small Language Models Better Procedural Knowledge Models for (Counterfactual) Planning", [pdf](https://arxiv.org/pdf/2305.19472.pdf)
