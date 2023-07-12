@@ -5,6 +5,7 @@
 + "Building Cooperative Embodied Agents Modularly with Large Language Models", [pdf](https://arxiv.org/pdf/2307.02485.pdf)
 + "Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners", [pdf](https://arxiv.org/pdf/2307.01928.pdf)
 + "PlaSma: Making Small Language Models Better Procedural Knowledge Models for (Counterfactual) Planning", [pdf](https://arxiv.org/pdf/2305.19472.pdf)
++ "VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models", [pdf](https://voxposer.github.io/voxposer.pdf)
 
 
 
