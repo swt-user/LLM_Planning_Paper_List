@@ -2,6 +2,7 @@
 
 ## Planning
 + "Language Models of Code are Few-Shot Commonsense Learners", [pdf](https://arxiv.org/pdf/2210.07128.pdf)
++ "Neuro-symbolic procedural planning with commonsense prompting", [pdf](https://arxiv.org/pdf/2206.02928.pdf)
 + "Embodied Task Planning with Large Language Models", [pdf](https://arxiv.org/pdf/2307.01848.pdf)
 + "Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents", [pdf](https://arxiv.org/pdf/2201.07207.pdf)
 + "Building Cooperative Embodied Agents Modularly with Large Language Models", [pdf](https://arxiv.org/pdf/2307.02485.pdf)
