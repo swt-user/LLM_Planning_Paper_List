@@ -14,6 +14,7 @@
 
 ## Reasoning
 + "Chain of Thought Prompting Elicits Knowledge Augmentation", [pdf](https://arxiv.org/pdf/2201.11903.pdf)
++ "UNLEASHING COGNITIVE SYNERGY IN LARGE LANGUAGE MODELS: A TASK-SOLVING AGENT THROUGH MULTI-PERSONA SELF-COLLABORATION", [pdf]
 
 
 ## Recommendation
