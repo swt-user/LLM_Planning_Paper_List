@@ -15,7 +15,10 @@
 ## Reasoning
 + "Chain of Thought Prompting Elicits Knowledge Augmentation", [pdf](https://arxiv.org/pdf/2201.11903.pdf)
 + "UNLEASHING COGNITIVE SYNERGY IN LARGE LANGUAGE MODELS: A TASK-SOLVING AGENT THROUGH MULTI-PERSONA SELF-COLLABORATION", [pdf](https://arxiv.org/pdf/2307.05300.pdf)
-
++ "Self-Consistency Improves Chain of Thought Reasoning in Language Models."
++ "STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning."
++  "Large Language Models are Zero-Shot Reasoners."
++  "Least-to-Most Prompting Enables Complex Reasoning in Large Language Models."
 
 ## Recommendation
 + "Recommender Systems in the Era of Large Language Models (LLMs)" [pdf](https://arxiv.org/pdf/2307.02046.pdf)
