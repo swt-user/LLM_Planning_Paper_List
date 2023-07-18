@@ -19,6 +19,7 @@
 + "STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning."
 +  "Large Language Models are Zero-Shot Reasoners."
 +  "Least-to-Most Prompting Enables Complex Reasoning in Large Language Models."
++  "Towards Reasoning in Large Language Models: A Survey"
 
 ## Recommendation
 + "Recommender Systems in the Era of Large Language Models (LLMs)" [pdf](https://arxiv.org/pdf/2307.02046.pdf)
