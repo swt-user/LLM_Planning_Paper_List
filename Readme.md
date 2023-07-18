@@ -34,3 +34,4 @@
 + "PlaSma: Making Small Language Models Better Procedural Knowledge Models for (Counterfactual) Planning", [pdf](https://arxiv.org/pdf/2305.19472.pdf)
 + "Knowledge-Augmented Reasoning Distillation for Small Language Models in Knowledge-Intensive Tasks", [pdf](https://arxiv.org/pdf/2305.18395.pdf)
 + "STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning", [pdf]()
++ "Generating Efficient Training Data via LLM-based Attribute Manipulation", [pdf]()
