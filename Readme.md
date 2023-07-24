@@ -24,6 +24,10 @@
 ## Recommendation
 + "Recommender Systems in the Era of Large Language Models (LLMs)" [pdf](https://arxiv.org/pdf/2307.02046.pdf)
 
+## Theory of Mind
++ "Boosting Theory-of-Mind Performance in Large Language Models via Prompting"
++ "Theory of Mind May Have Spontaneously Emerged in Large Language Models"
+
 
 ## Teaching small model
 + "Teaching Small Language Models to Reason", [pdf](https://arxiv.org/pdf/2212.08410.pdf)
