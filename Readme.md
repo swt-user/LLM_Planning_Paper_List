@@ -21,15 +21,21 @@
 +  "Least-to-Most Prompting Enables Complex Reasoning in Large Language Models."
 +  "Towards Reasoning in Large Language Models: A Survey"
 
+
 ## Recommendation
 + "Recommender Systems in the Era of Large Language Models (LLMs)" [pdf](https://arxiv.org/pdf/2307.02046.pdf)
+
+
 
 ## Theory of Mind
 + "Boosting Theory-of-Mind Performance in Large Language Models via Prompting"
 + "Theory of Mind May Have Spontaneously Emerged in Large Language Models"
 + "MindDial: Belief Dynamics Tracking with Theory-of-Mind Modeling for Situated Neural Dialogue Generation"
 + "Theory of Mind Reasoning in Explanation, Plan Recognition, and Assistance: Theory and Practice"
-+ 
++ "What you don't know matters: An ignorance-focused investigation of theory of mind"
++ "ToMChallenges: A Principle-Guided Dataset and Diverse Evaluation Tasks for Exploring Theory of Mind"
++ "Does ChatGPT have Theory of Mind?"
++ "Developing ChatGPT's Theory of Mind"
 
 
 ## Teaching small model
@@ -43,6 +49,7 @@
 + "Knowledge-Augmented Reasoning Distillation for Small Language Models in Knowledge-Intensive Tasks", [pdf](https://arxiv.org/pdf/2305.18395.pdf)
 + "STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning", [pdf]()
 + "Generating Efficient Training Data via LLM-based Attribute Manipulation", [pdf]()
+
 
 ## Simulation
 + "Using Large Language Models to Simulate Multiple Humans and Replicate Human Subject Studies"
