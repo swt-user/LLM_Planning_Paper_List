@@ -21,6 +21,7 @@
 +  "Large Language Models are Zero-Shot Reasoners."
 +  "Least-to-Most Prompting Enables Complex Reasoning in Large Language Models."
 +  "Towards Reasoning in Large Language Models: A Survey"
++  "ARB: Advanced Reasoning Benchmark for Large Language Models"
 
 
 ## Recommendation
