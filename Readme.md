@@ -10,6 +10,7 @@
 + "PlaSma: Making Small Language Models Better Procedural Knowledge Models for (Counterfactual) Planning", [pdf](https://arxiv.org/pdf/2305.19472.pdf)
 + "VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models", [pdf](https://voxposer.github.io/voxposer.pdf)
 + "RoCo: Dialectic Multi-Robot Collaboration with Large Language Models", [pdf](https://arxiv.org/pdf/2307.04738.pdf)
++ "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis", [pdf](https://arxiv.org/pdf/2307.12856.pdf)
 
 
 ## Reasoning
