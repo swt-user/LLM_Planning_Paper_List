@@ -11,6 +11,8 @@
 + "VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models", [pdf](https://voxposer.github.io/voxposer.pdf)
 + "RoCo: Dialectic Multi-Robot Collaboration with Large Language Models", [pdf](https://arxiv.org/pdf/2307.04738.pdf)
 + "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis", [pdf](https://arxiv.org/pdf/2307.12856.pdf)
++ "Do embodied agents dream of pixelated sheep: Embodied decision making using language guided world modelling."
++ "Describe, explain, plan and select: Interactive planning with large language models enables open-world multi-task agents"
 
 
 ## Reasoning
@@ -23,6 +25,10 @@
 +  "Towards Reasoning in Large Language Models: A Survey"
 +  "ARB: Advanced Reasoning Benchmark for Large Language Models"
 
+
+## Webagent
++ "WebArena: A Realistic Web Environment for Building Autonomous Agents"
++ "A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis"
 
 ## Recommendation
 + "Recommender Systems in the Era of Large Language Models (LLMs)" [pdf](https://arxiv.org/pdf/2307.02046.pdf)
