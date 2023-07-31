@@ -56,6 +56,7 @@
 + "Knowledge-Augmented Reasoning Distillation for Small Language Models in Knowledge-Intensive Tasks", [pdf](https://arxiv.org/pdf/2305.18395.pdf)
 + "STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning", [pdf]()
 + "Generating Efficient Training Data via LLM-based Attribute Manipulation", [pdf]()
++ "Specializing Smaller Language Models towards Multi-Step Reasoning", [pdf]()
 
 
 ## Simulation
