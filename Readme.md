@@ -23,6 +23,7 @@
 +  "Least-to-Most Prompting Enables Complex Reasoning in Large Language Models."
 +  "Towards Reasoning in Large Language Models: A Survey"
 +  "ARB: Advanced Reasoning Benchmark for Large Language Models"
++  "SelfCheck: Using LLMs to Zero-Shot Check Their Own Step-by-Step Reasoning"
 
 
 ## Webagent
