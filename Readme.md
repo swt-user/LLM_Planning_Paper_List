@@ -1,5 +1,9 @@
 # LLM paper list
 
+## agent
++ "ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models"
+
+
 ## Planning
 + "Language Models of Code are Few-Shot Commonsense Learners", [pdf](https://arxiv.org/pdf/2210.07128.pdf)
 + "Neuro-symbolic procedural planning with commonsense prompting", [pdf](https://arxiv.org/pdf/2206.02928.pdf)
@@ -32,7 +36,8 @@
 
 ## Recommendation
 + "Recommender Systems in the Era of Large Language Models (LLMs)" [pdf](https://arxiv.org/pdf/2307.02046.pdf)
-
++ "Recommender AI Agent: Integrating Large Language Models for InteractiveRecommendations"
++ "RecMind: Large Language Model Powered Agent For Recommendation"
 
 
 ## Theory of Mind
