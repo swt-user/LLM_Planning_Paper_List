@@ -2,7 +2,10 @@
 
 ## agent
 + "ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models"
-
++ "ProAgent: Building Proactive Cooperative AI with Large Language Models"
++ "ExpeL: LLM Agents Are Experiential Learners"
++ "AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents"
++ "GPT-in-the-Loop: Adaptive Decision-Making for Multiagent Systems"
 
 ## Planning
 + "Language Models of Code are Few-Shot Commonsense Learners", [pdf](https://arxiv.org/pdf/2210.07128.pdf)
@@ -38,7 +41,14 @@
 + "Recommender Systems in the Era of Large Language Models (LLMs)" [pdf](https://arxiv.org/pdf/2307.02046.pdf)
 + "Recommender AI Agent: Integrating Large Language Models for InteractiveRecommendations"
 + "RecMind: Large Language Model Powered Agent For Recommendation"
-
++ "ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation"
++ "RAH! RecSys-Assistant-Human: A Human-Central Recommendation Framework with Large Language Models"
++ "Large Language Models as Zero-Shot Conversational Recommenders"
++ "Leveraging Large Language Models for Pre-trained Recommender Systems"
++ "Enhancing Recommender Systems with Large Language Model Reasoning Graphs"
++ "A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems"
++ "LLM-Rec: Personalized Recommendation via Prompting Large Language Models"
++ "Large Language Models for Information Retrieval: A Survey"
 
 ## Theory of Mind
 + "Boosting Theory-of-Mind Performance in Large Language Models via Prompting"
