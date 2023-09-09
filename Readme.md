@@ -6,6 +6,8 @@
 + "ExpeL: LLM Agents Are Experiential Learners"
 + "AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents"
 + "GPT-in-the-Loop: Adaptive Decision-Making for Multiagent Systems"
++ "Benchmarking and Orchestrating LLM-Augmented Autonomous Agents"
++ "Enhancing Trust in LLM-Based AI Automation Agents: New Considerations and Future Challenges"
 
 ## Planning
 + "Language Models of Code are Few-Shot Commonsense Learners", [pdf](https://arxiv.org/pdf/2210.07128.pdf)
@@ -49,6 +51,7 @@
 + "A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems"
 + "LLM-Rec: Personalized Recommendation via Prompting Large Language Models"
 + "Large Language Models for Information Retrieval: A Survey"
++ "A Large Language Model Enhanced Conversational Recommender System"
 
 ## Theory of Mind
 + "Boosting Theory-of-Mind Performance in Large Language Models via Prompting"
