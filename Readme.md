@@ -9,6 +9,7 @@
 + "Benchmarking and Orchestrating LLM-Augmented Autonomous Agents"
 + "Enhancing Trust in LLM-Based AI Automation Agents: New Considerations and Future Challenges"
 + "Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization"
++ "AgentBench: Evaluating LLMs as Agents"
 
 ## Planning
 + "Language Models of Code are Few-Shot Commonsense Learners", [pdf](https://arxiv.org/pdf/2210.07128.pdf)
