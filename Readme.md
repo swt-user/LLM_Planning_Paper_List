@@ -43,6 +43,7 @@
 
 ## Recommendation
 + "Recommender Systems in the Era of Large Language Models (LLMs)" [pdf](https://arxiv.org/pdf/2307.02046.pdf)
++ "How Can Recommender Systems Benefit from Large Language Models: A Survey"
 + "Recommender AI Agent: Integrating Large Language Models for InteractiveRecommendations"
 + "RecMind: Large Language Model Powered Agent For Recommendation"
 + "ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation"
