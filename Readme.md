@@ -23,6 +23,7 @@
 + "RoCo: Dialectic Multi-Robot Collaboration with Large Language Models", [pdf](https://arxiv.org/pdf/2307.04738.pdf)
 + "Do embodied agents dream of pixelated sheep: Embodied decision making using language guided world modelling."
 + "Describe, explain, plan and select: Interactive planning with large language models enables open-world multi-task agents"
++ "Exploring Large Language Models for Communication Games:An Empirical Study on Werewolf"
 
 
 ## Reasoning
