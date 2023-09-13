@@ -9,6 +9,7 @@
 + "Benchmarking and Orchestrating LLM-Augmented Autonomous Agents"
 + "Enhancing Trust in LLM-Based AI Automation Agents: New Considerations and Future Challenges"
 + "Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization"
++ "Reflexion: Language agents with verbal reinforcement learning"
 + "AgentBench: Evaluating LLMs as Agents"
 
 ## Planning
