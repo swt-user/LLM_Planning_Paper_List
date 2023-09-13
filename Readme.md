@@ -12,6 +12,8 @@
 + "Reflexion: Language agents with verbal reinforcement learning"
 + "AgentBench: Evaluating LLMs as Agents"
 + "CGMI: Configurable General Multi-Agent Interaction Framework"
++ "Large Language Model as Autonomous Decision Maker"
+
 
 ## Planning
 + "Language Models of Code are Few-Shot Commonsense Learners", [pdf](https://arxiv.org/pdf/2210.07128.pdf)
