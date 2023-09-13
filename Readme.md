@@ -11,6 +11,7 @@
 + "Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization"
 + "Reflexion: Language agents with verbal reinforcement learning"
 + "AgentBench: Evaluating LLMs as Agents"
++ "CGMI: Configurable General Multi-Agent Interaction Framework"
 
 ## Planning
 + "Language Models of Code are Few-Shot Commonsense Learners", [pdf](https://arxiv.org/pdf/2210.07128.pdf)
