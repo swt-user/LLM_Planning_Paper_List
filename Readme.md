@@ -13,6 +13,7 @@
 + "AgentBench: Evaluating LLMs as Agents"
 + "CGMI: Configurable General Multi-Agent Interaction Framework"
 + "Large Language Model as Autonomous Decision Maker"
++ "The Rise and Potential of Large Language Model Based Agents: A Survey"
 
 
 ## Planning
