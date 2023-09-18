@@ -15,6 +15,7 @@
 + "Large Language Model as Autonomous Decision Maker"
 + "The Rise and Potential of Large Language Model Based Agents: A Survey"
 + "LASER: LLM Agent with State-Space Exploration for Web Navigation"
++ "Agents: An Open-source Framework for Autonomous Language Agents"
 
 
 ## Planning
