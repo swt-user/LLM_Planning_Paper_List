@@ -32,7 +32,7 @@
 + "Do embodied agents dream of pixelated sheep: Embodied decision making using language guided world modelling."
 + "Describe, explain, plan and select: Interactive planning with large language models enables open-world multi-task agents"
 + "Exploring Large Language Models for Communication Games:An Empirical Study on Werewolf"
-
++ "CodePlan: Repository-level Coding using LLMs and Planning"
 
 ## Reasoning
 + "Chain of Thought Prompting Elicits Knowledge Augmentation", [pdf](https://arxiv.org/pdf/2201.11903.pdf)
