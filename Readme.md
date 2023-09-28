@@ -17,6 +17,7 @@
 + "LASER: LLM Agent with State-Space Exploration for Web Navigation"
 + "Agents: An Open-source Framework for Autonomous Language Agents"
 + "MindAgent: Emergent Gaming Interaction"
++ "Large Language Model Is Semi-Parametric Reinforcement Learning Agent"
 
 
 ## Planning
