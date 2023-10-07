@@ -76,6 +76,7 @@
 + "Does ChatGPT have Theory of Mind?"
 + "Developing ChatGPT's Theory of Mind"
 + "Deception abilities emerged in large language modelsDeception abilities emerged in large language models"
++ "How FaR Are Large Language Models From Agents with Theory-of-Mind?"
 
 ## Teaching small model
 + "Teaching Small Language Models to Reason", [pdf](https://arxiv.org/pdf/2212.08410.pdf)
