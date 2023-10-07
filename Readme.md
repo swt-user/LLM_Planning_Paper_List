@@ -18,6 +18,7 @@
 + "Agents: An Open-source Framework for Autonomous Language Agents"
 + "MindAgent: Emergent Gaming Interaction"
 + "Large Language Model Is Semi-Parametric Reinforcement Learning Agent"
++ "SMARTPLAY : A BENCHMARK FOR LLMS AS INTELLIGENT AGENTS"
 
 
 ## Planning
