@@ -80,6 +80,8 @@
 + "Developing ChatGPT's Theory of Mind"
 + "Deception abilities emerged in large language modelsDeception abilities emerged in large language models"
 + "How FaR Are Large Language Models From Agents with Theory-of-Mind?"
++ "From Text to Tactic: Evaluating LLMs Playing the Game of Avalon"
++ "HOW FAR ARE LARGE LANGUAGE MODELS FROM AGENTS WITH THEORY-OF-MIND?"
 
 ## Teaching small model
 + "Teaching Small Language Models to Reason", [pdf](https://arxiv.org/pdf/2212.08410.pdf)
