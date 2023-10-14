@@ -82,7 +82,8 @@
 + "How FaR Are Large Language Models From Agents with Theory-of-Mind?"
 + "From Text to Tactic: Evaluating LLMs Playing the Game of Avalon"
 + "HOW FAR ARE LARGE LANGUAGE MODELS FROM AGENTS WITH THEORY-OF-MIND?"
-+ Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf
++  "Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf"
++  "SUSPICION-AGENT: PLAYING IMPERFECT INFORMATION GAMES WITH THEORY OF MIND AWARE GPT4"
 
 ## Teaching small model
 + "Teaching Small Language Models to Reason", [pdf](https://arxiv.org/pdf/2212.08410.pdf)
