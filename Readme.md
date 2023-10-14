@@ -19,6 +19,7 @@
 + "MindAgent: Emergent Gaming Interaction"
 + "Large Language Model Is Semi-Parametric Reinforcement Learning Agent"
 + "SMARTPLAY : A BENCHMARK FOR LLMS AS INTELLIGENT AGENTS"
++ "FIREACT: TOWARD LANGUAGE AGENT FINE-TUNING"
 
 
 
@@ -92,6 +93,7 @@
 + "STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning", [pdf]()
 + "Generating Efficient Training Data via LLM-based Attribute Manipulation", [pdf]()
 + "Specializing Smaller Language Models towards Multi-Step Reasoning", [pdf]()
++ "FIREACT: TOWARD LANGUAGE AGENT FINE-TUNING"
 
 
 ## Simulation
